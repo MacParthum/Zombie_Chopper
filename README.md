@@ -1,5 +1,5 @@
-# Zombie_Chopper
-A simple Bootstrap site using a Miniclip game I got from here https://www.miniclip.com/webmasters/en/
+# MINICLIP Webmaster Games Bootstrap Site
+A simple Bootstrap site using Miniclip games I got from here https://www.miniclip.com/webmasters/en/
 
-## Play the Game
+## Play the Games
 https://macparthum.github.io/Zombie_Chopper/.
