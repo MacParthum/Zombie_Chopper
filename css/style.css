@@ -3,7 +3,7 @@ body, html {
   }
   .bg {
     /* The image used */
-    background-image: url("/images/beanstalk-dark.png");
+    background-image: url("/Images/beanstalk-dark.png");
     /* Adjust height */
     height: 100%;
   

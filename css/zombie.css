@@ -3,7 +3,7 @@ body, html {
   }
   .bg {
     /* The image used */
-    background-image: url("/images/zombieApoc.jpg");
+    background-image: url("/Images/zombieApoc.jpg");
     /* Adjust height */
     height: 100%;
   
