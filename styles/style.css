@@ -3,7 +3,7 @@ body, html {
   }
   .bg {
     /* The image used */
-    background-image: url("/assets/images/dark.png");
+    background-image: url("/assets/images/dark.PNG");
     /* Adjust height */
     height: 100%;
   
