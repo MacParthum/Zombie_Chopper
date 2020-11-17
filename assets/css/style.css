@@ -1,9 +1,10 @@
 body, html {
     height: 100%;
   }
-  .bg {
+  
+.bg {
     /* The image used */
-    background-image: url("/assets/images/dark.PNG");
+    background-image: url("../images/dark.png");
     /* Adjust height */
     height: 100%;
   
